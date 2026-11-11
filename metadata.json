@@ -1,0 +1,6 @@
+{
+  "name": "GAMEVAULT — PC Gaming Discovery",
+  "description": "Professional PC gaming discovery platform engineered by Aether Technologies with featured showcases, high-fidelity catalog, genre filtering, and comprehensive system specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
